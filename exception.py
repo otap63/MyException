@@ -1,5 +1,5 @@
 #C:\Users\admin\AppData\Local\Programs\Python\workspace\exception.py
-
+#This comment is added on PYCHARM!!!
 class UpperCaseException(Exception):
 	 print('UpperCaseException raised')
 
@@ -11,4 +11,4 @@ def myException():
             if w.isupper():
                 raise UpperCaseException(w)
     except Exception as exc:
-	    print('Exception RAISED!', exc, sep='***', flush=True, end='........')
+	    print('Exception RAISED in %s!', __file__, exc, sep='***', flush=True, end='........')
