@@ -1,5 +1,5 @@
 # This is a sample Python script.
-# This comment is added on PYCHARM in main
+# DEPRECATED on GITHUB: This comment is added on PYCHARM in main
 from exception import *
 
 
