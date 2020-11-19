@@ -1,5 +1,5 @@
 #C:\Users\admin\AppData\Local\Programs\Python\workspace\exception.py
-
+# THIS LINE IS ADDED ON GITHUB!!! otap63
 class UpperCaseException(Exception):
 	 print('UpperCaseException raised')
 
