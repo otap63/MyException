@@ -1,6 +1,7 @@
 # This is a sample Python script.
 # ADDED on test_branch
 # DELETED on Pycharm: This comment is added on PYCHARM in main
+# 1) THIS LINE IS ADDED AFTER new_branch IS PUSHED
 from exception import *
 
 
