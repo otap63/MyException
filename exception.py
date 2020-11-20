@@ -1,5 +1,7 @@
+######## BRAND NEW new_branch #################
+################ exception.py #################
 #C:\Users\admin\AppData\Local\Programs\Python\workspace\exception.py
-#This comment is added on PYCHARM!!!
+
 class UpperCaseException(Exception):
 	 print('UpperCaseException raised')
 
