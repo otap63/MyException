@@ -19,4 +19,8 @@ if __name__ == '__main__':
     print_hi('In  main()....')
     myException()
 
+<<<<<<< HEAD
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+=======
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+>>>>>>> 32369f6 (First commit of new_branch)
